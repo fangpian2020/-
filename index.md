@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/fangpian2020/500241199810127415/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 骗子胡海勇
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+姓名：胡海勇  
+身份证：500241199810127415  
+住址：重庆市秀山县洪安镇平马居委会线路沟组31号   
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+特长：利用微小权力，索取大量贿赂，大量借钱不还
 
-```markdown
-Syntax highlighted code block
+骗子胡海勇行走江湖行骗多年，深谙逃避骗钱立案技巧，惯犯，警惕
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fangpian2020/500241199810127415/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![image](https://github.com/fangpian2020/-/blob/main/pz1.png)
+![image](https://github.com/fangpian2020/-/blob/main/pz2.png)
